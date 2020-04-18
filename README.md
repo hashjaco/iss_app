@@ -1,8 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ISS App
 
-## Available Scripts
+The ISS web application provides real-time updates of the location of the International Space Station, the time it will pass over your current location, and which astronauts are currently in space.<b />
 
-In the project directory, you can run:
+There's also an interactive globe to drag around in-between updates  (:
+
+### `Quick Start`
+
+Run:
+```
+yarn install && yarn start
+
+or
+
+npm i && npm start
+```
 
 ### `yarn start`
 
@@ -12,10 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn build`
 

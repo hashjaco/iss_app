@@ -1,0 +1,26 @@
+#button {
+    display: flex;
+    width: 20%;
+    height: 5vh;
+    background-color: #C4C4C4;
+    border-radius: 20px;
+    box-shadow: #313F13 1px 1px;
+    align-items: center;
+    justify-content: center;
+}
+
+#button:hover {
+    width: 20%;
+    height: 5vh;
+    background-color: #C4C4C4;
+    border-radius: 20px;
+    box-shadow: none;
+    transform: translate(1px, 1px);
+    cursor: pointer;
+}
+
+#text {
+    font: bold 20px "Roboto";
+    color: #A6B18F;
+    text-shadow: #313F13 1px 1px;
+}

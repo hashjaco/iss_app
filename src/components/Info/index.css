@@ -1,0 +1,7 @@
+#info-container {
+    position: absolute;
+    width: 25vw;
+    height: auto;
+    right: 0;
+    z-index: 2;
+}
