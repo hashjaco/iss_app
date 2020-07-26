@@ -15,9 +15,3 @@ or
 npm i && npm start
 ```
 This application was bootstrapped with create-react-app, so it should automatically open up the browser over port 3000.
-
-
-
-### `Notes`
-
-The Scene moves the information container down, so some of the astronaut names are not visible. The scene component can easily be added back by uncommenting it, but for this project, being able to see the fetched data was higher priority.
